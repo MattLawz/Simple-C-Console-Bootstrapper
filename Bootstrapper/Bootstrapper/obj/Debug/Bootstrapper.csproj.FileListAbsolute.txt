@@ -1,0 +1,7 @@
+C:\Users\matth\source\repos\Bootstrapper\Bootstrapper\bin\Debug\Bootstrapper.exe.config
+C:\Users\matth\source\repos\Bootstrapper\Bootstrapper\bin\Debug\Bootstrapper.exe
+C:\Users\matth\source\repos\Bootstrapper\Bootstrapper\bin\Debug\Bootstrapper.pdb
+C:\Users\matth\source\repos\Bootstrapper\Bootstrapper\obj\Debug\Bootstrapper.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\Bootstrapper\Bootstrapper\obj\Debug\Bootstrapper.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\Bootstrapper\Bootstrapper\obj\Debug\Bootstrapper.exe
+C:\Users\matth\source\repos\Bootstrapper\Bootstrapper\obj\Debug\Bootstrapper.pdb
